@@ -13,7 +13,6 @@ public class Facebook_Test extends BaseTest {
 
         for (int i = 1; i <= 1; i++) {
 
-
             Facebook_Page facebook_page = new Facebook_Page(driver);
 
             ExcelReadNWrite excelDoc = new ExcelReadNWrite("data/Data.xlsx", "Sheet1");
